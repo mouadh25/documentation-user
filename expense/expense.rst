@@ -11,6 +11,7 @@ that your company allows, from the *Configuration* menu.
 When a specific expense is reimbursed at a fixed price, set a cost on the product.
 Otherwise keep the cost at 0.0 and employees will report the real cost per expense.
 
+ok thisis I understand but..!!!!
 .. image:: ./media/expense_product.png
    :align: center
 
